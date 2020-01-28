@@ -1,0 +1,11 @@
+
+label {
+    padding: 1rem;
+}
+input {
+    display: none;
+}
+
+.active {
+    background-color: gray;
+}
